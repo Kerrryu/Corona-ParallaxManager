@@ -1,5 +1,8 @@
 --[[
 
+Title: Vertical Parallax Manager
+Author: Sebastian Maj
+
 Description:
 A Universal Parallax Module that can be used across many games
 handles all the Parallax work for you. Only Vertical
